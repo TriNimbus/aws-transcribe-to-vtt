@@ -6,7 +6,7 @@ The outputted VTT file is saved to `output/output.vtt`. Easiest way to run is pl
 
 ## Running:
 ### To test:
-    node test
+    npm test
 
 ### To run
     node index.js
